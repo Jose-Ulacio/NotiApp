@@ -1,2 +1,2 @@
 # NotiApp
-una aplicaion que te permite ller 10 noticias Aleatorias
+Una aplicaion que te permite leer 10 noticias Aleatorias de cualquier Parte del Mundo
